@@ -5,7 +5,7 @@
 <head>
   <body>
 ✧.* Hi, I’m <b>@m33eateater</b> <br>
-<p>         ︶꒷꒦︶ ๋࣭ ⭑   16 / He . Him</p>
+<p>         ︶꒷꒦︶ ๋࣭ ⭑   16 / He </p>
 I`m new at program
   </body>
 </head>
